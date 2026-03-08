@@ -1,0 +1,16 @@
+# MC-STRIKE v3 — Requirements
+# ─────────────────────────────────────────────────────────────────
+# GOOD NEWS: Zero external packages required!
+# MC-STRIKE uses ONLY Python standard library modules.
+#
+# Required modules (all built into Python 3.8+):
+#   socket, struct, threading, time, random, json,
+#   uuid, string, math, collections, dataclasses,
+#   typing, http.server, urllib.parse, argparse, os, re
+#
+# Just make sure you have Python 3.8 or newer installed.
+# Check your version: python3 --version
+# ─────────────────────────────────────────────────────────────────
+
+# No packages to install. Just run:
+#   python3 dashboard.py
